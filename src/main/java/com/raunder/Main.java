@@ -1,4 +1,4 @@
-package hu.szamalk;
+package com.raunder;
 
 public class Main {
     public static void main(String[] args) {
