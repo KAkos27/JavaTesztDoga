@@ -12,9 +12,4 @@ public class Gomb extends FemAlakzat {
     public double terfogat() {
         return (4 * Math.pow(sugar, 3) * Math.PI) / 3;
     }
-
-    @Override
-    public double suly() {
-        return fajSuly * terfogat();
-    }
 }
